@@ -1,0 +1,20 @@
+SMAP
+delete_0020action_0020for_0020sponsor_jsp.java
+JSP
+*S JSP
+*F
++ 0 delete action for sponsor.jsp
+delete action for sponsor.jsp
++ 1 connect.jsp
+connect.jsp
+*L
+5:52
+5#1,12:53
+16:12
+16,2:65
+18,5:68
+22,4:73
+6#0,10:76
+16,8:87
+23,4:95
+*E
